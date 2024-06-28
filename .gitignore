@@ -1,2 +1,12 @@
+# Ignore binary files
 *.bin
 *.exe
+
+# Ignore CPH files
+input.txt
+output.txt
+*.in
+*.out
+
+# Ignore CPH directories
+cph/

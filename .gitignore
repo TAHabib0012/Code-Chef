@@ -7,6 +7,5 @@ input.txt
 output.txt
 *.in
 *.out
+*.prob
 
-# Ignore CPH directories
-cph/

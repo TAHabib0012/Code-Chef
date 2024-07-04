@@ -9,3 +9,5 @@ output.txt
 *.out
 *.prob
 
+# Ignore .vscode file
+*.json

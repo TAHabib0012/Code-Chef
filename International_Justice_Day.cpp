@@ -29,6 +29,7 @@ void ans()
     {
         yes;
     }
+    
     else
     {
         no;

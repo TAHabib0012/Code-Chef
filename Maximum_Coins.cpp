@@ -37,6 +37,7 @@ void ans()
     {
         c += a[i];
     }
+    
     for (int i = m; i < n; ++i) 
     {
         f = f + a[i];

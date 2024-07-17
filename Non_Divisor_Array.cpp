@@ -37,11 +37,9 @@ void ans()
             f++;
             k++;
         }
-        
     }
 
     cout << a.back() << endl;
-
     for (int i = 0; i < a.size(); i++) 
     {
         cout << a[i] << HA;
